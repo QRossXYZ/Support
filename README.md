@@ -20,3 +20,5 @@ You can go to our [Issue Tracker](https://github.com/QRossXYZ/Support/issues) an
 - feedback : Sharing your feedback on using the platform
 - feature  : Submitting a feature request
 - bug      : Reporting something that's broken
+
+*NOTE*: Don't ever include sensitive information when you submit issues. This is a public issue tracker which means everyone can see your issue and all of its content.
